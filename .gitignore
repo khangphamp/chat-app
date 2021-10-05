@@ -6,8 +6,8 @@
 .pnp.js
 /emulators
 .env
-localhost-key.pem
-localhost.pem
+/localhost-key.pem
+/localhost.pem
 # testing
 /coverage
 
